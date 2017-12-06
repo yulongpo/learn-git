@@ -1,6 +1,6 @@
 # 学习Git
 
-## 1. 
+## 1.学习*Git*的必要性 
 
 ## 2.
 ### 1）
@@ -15,11 +15,11 @@
 ### 2）
 
 
-"python"
+'''python
 import numpy as np
 a = np.arange(10)
 print(a)
-"python"
+'''
 
 # 以上均为测试
 #### 2017.12.06
