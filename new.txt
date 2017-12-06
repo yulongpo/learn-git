@@ -1,0 +1,4 @@
+This is a new text file I create on Dec. 6th, 2017.
+For the reason I do this is to learn more about using git to manage my codes.
+Just a test!
+
