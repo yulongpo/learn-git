@@ -14,12 +14,13 @@
 ### 1）
 ### 2）
 
-
-'''python
+```shell
+```
+```python
 import numpy as np
 a = np.arange(10)
 print(a)
-'''
+```
 
 # 以上均为测试
 #### 2017.12.06
