@@ -22,5 +22,21 @@ a = np.arange(10)
 print(a)
 ```
 
+```c++
+#include <iostream>
+using namespace std
+
+int main()
+{
+	int a = 0;
+	cout << "请输入一个整数：";
+	cin >> a;
+	cout << "您输入的数字是：” << a << endl;
+	return;
+}
+
+```
+
+
 # 以上均为测试
 #### 2017.12.06
